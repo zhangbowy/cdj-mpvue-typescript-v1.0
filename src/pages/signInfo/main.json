@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "个人资料认证",
+  "usingComponents": {
+    "ocr-navigator": "plugin://ocr-plugin/ocr-navigator",
+    "van-button": "./../../static/vant/button/index",
+    "van-field": "./../../static/vant//field/index",
+    "van-cell":"./../../static/vant/cell/index"
+  },
+  "component": true
+}

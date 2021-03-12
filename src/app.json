@@ -1,0 +1,38 @@
+{
+  "pages": [
+    "pages/index/main",
+    "pages/login/main",
+    "pages/signSuccess/main",
+    "pages/contract/main",
+    "pages/signInfo/main",
+    "pages/personalInfo/main",
+    "pages/logs/main",
+    "pages/counter/main",
+    "pages/testExtend/main",
+    "pages/contractDetail/main",
+    "pages/contractPage/main",
+    "pages/salary/main",
+    "pages/salaryDetail/main",
+    "pages/userInfo/main",
+    "pages/businessInfo/main",
+    "static/signature/signature",
+    "static/bindPhone/bindPhone"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "财当加",
+    "navigationBarTextStyle": "black"
+  },
+  "plugins": {
+    "ocr-plugin": {
+      "version": "2.0.2",
+      "provider": "wx4418e3e031e551be"
+    },
+    "signaturePlugin": {
+      "version": "0.1.0",
+      "provider": "wxca32caf77ed42a16"
+    }
+  },
+  "enablePullDownRefresh": true
+}

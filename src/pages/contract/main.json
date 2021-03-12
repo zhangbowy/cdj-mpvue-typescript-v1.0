@@ -1,0 +1,13 @@
+{
+  "navigationBarTitleText": "我的合同",
+  "usingComponents": {
+    "ocr-navigator": "plugin://ocr-plugin/ocr-navigator",
+    "van-button": "./../../static/vant/button/index",
+    "van-field": "./../../static/vant/field/index",
+    "van-cell": "./../../static/vant//cell/index",
+    "van-cell-group": "./../../static/vant/cell-group/index"
+  },
+  "component": true,
+  "backgroundTextStyle": "dark",
+  "enablePullDownRefresh": true
+}

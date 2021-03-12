@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "个体工商户认证",
+  "usingComponents": {
+    "ocr-navigator": "plugin://ocr-plugin/ocr-navigator",
+    "van-button": "./../../static/vant/button/index",
+    "van-field": "./../../static/vant//field/index"
+  },
+  "component": true
+}
